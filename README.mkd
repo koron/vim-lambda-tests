@@ -1,4 +1,4 @@
 Test set for Vim's lambda patch.
 
-Issue: https://github.com/vim-jp/issues/issues/632
-Patch: https://gist.github.com/mattn/50fa1dc854911d5cb797
+*   Issue: https://github.com/vim-jp/issues/issues/632
+*   Patch: https://gist.github.com/mattn/50fa1dc854911d5cb797
