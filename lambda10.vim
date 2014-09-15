@@ -11,4 +11,5 @@ try
   echo F()
   echoerr "Shouldn't pass"
 catch /^Vim\%((\a\+)\)\=:E117/
+  echo 'Got E117' | " Got E117
 endtry
