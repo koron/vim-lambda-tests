@@ -13,5 +13,5 @@ echo F[1]()
 " This will print 111
 echo F[0]()
 
-" This will print 111
+" This will print no
 echo F[1]()
