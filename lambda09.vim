@@ -5,6 +5,6 @@ endfunction
 
 let g:C = NewCounter()
 call garbagecollect()
-echo C()
-echo C()
-echo C()
+echo C() | " 1
+echo C() | " 2
+echo C() | " 3
